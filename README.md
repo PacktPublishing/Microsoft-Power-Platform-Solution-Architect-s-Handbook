@@ -1,8 +1,8 @@
-Microsoft Power Platform Solution Architect's Handbook
+# Microsoft Power Platform Solution Architect's Handbook
 
 <a href="https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336"><img src="https://static.packt-cdn.com/products/9781801819336/cover/smaller" alt="Microsoft Power Platform Solution Architect's Handbook" height="256px" align="right"></a>
 
-This is the code repository for Microsoft Power Platform Solution Architect's Handbook (https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336), published by Packt.
+This is the code repository for [Microsoft Power Platform Solution Architect's Handbook](https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336), published by Packt.
 
 **An expert's guide to becoming a Power Platform solution architect and preparing for the PL-600 exam**
 
@@ -22,17 +22,15 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
-The code will look like the following:
-```
-Tips or Important Notes
-Appear like this
-```
-
 **Following is what you need for this book:**
 This book is for solution architects, enterprise architects, technical consultants, and business and system analysts who implement, optimize, and architect Power Platform and Dataverse solutions. It will also help anyone who needs a detailed playbook for architecting and delivering successful digital transformation projects that leverage Power Platform apps and the Microsoft business apps ecosystem. A solid understanding of Power Platform configuration and administration, Power Automate processes, Power Apps Portals, Canvas Apps, Dataverse Plugins, and Workflow Capabilities is expected.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
+### Software and Hardware List
+| Chapter | Software required | OS required |
+| -------- | ------------------------------------ | ----------------------------------- |
+| 1-16  | | Windows, Mac OS X, and Linux (Any) |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/D9wUs).
 
