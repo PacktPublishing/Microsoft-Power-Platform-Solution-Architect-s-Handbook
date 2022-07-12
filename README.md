@@ -25,13 +25,6 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Following is what you need for this book:**
 This book is for solution architects, enterprise architects, technical consultants, and business and system analysts who implement, optimize, and architect Power Platform and Dataverse solutions. It will also help anyone who needs a detailed playbook for architecting and delivering successful digital transformation projects that leverage Power Platform apps and the Microsoft business apps ecosystem. A solid understanding of Power Platform configuration and administration, Power Automate processes, Power Apps Portals, Canvas Apps, Dataverse Plugins, and Workflow Capabilities is expected.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1-16  | | Windows, Mac OS X, and Linux (Any) |
-
-
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/D9wUs).
 
 ### Related products
