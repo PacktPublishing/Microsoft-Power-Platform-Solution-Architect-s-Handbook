@@ -10,12 +10,12 @@ This is the code repository for [Microsoft Power Platform Solution Architect's H
 If you’ve been looking for a way to unlock the potential of Microsoft Power Platform and take your career as a solution architect to the next level, then look no further—this practical guide covers it all. 
 
 This book covers the following exciting features:
-Cement the foundations of your applications using best practices
-Use proven design, build, and go-live strategies to ensure success
-Lead requirements gathering and analysis with confidence
-Secure even the most complex solutions and integrations
-Ensure compliance between the Microsoft ecosystem and your business
-Build resilient test and deployment strategies to optimize solutions
+* Cement the foundations of your applications using best practices
+* Use proven design, build, and go-live strategies to ensure success
+* Lead requirements gathering and analysis with confidence
+* Secure even the most complex solutions and integrations
+* Ensure compliance between the Microsoft ecosystem and your business
+* Build resilient test and deployment strategies to optimize solutions
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801819335) today!
 
@@ -34,4 +34,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Hugo Herrera**
-Hugo Herrera is an experienced and versatile Power Platform and Dynamics 365 solution architect with a track record of success implementing solutions on behalf of Microsoft and the global partner network. His hands-on approach to technical leadership brings teams together, up and running, and to the highest standards using industry best practices. He is an articulate communicator who engages with business owners and stakeholders alike, running workshops and presentations to large audiences for maximum effect. As a freelance solution architect, he works with financial institutions, global consultancies, government organizations, partners, and Microsoft to fulfill their business goals.
+is an experienced and versatile Power Platform and Dynamics 365 solution architect with a track record of success implementing solutions on behalf of Microsoft and the global partner network. His hands-on approach to technical leadership brings teams together, up and running, and to the highest standards using industry best practices. He is an articulate communicator who engages with business owners and stakeholders alike, running workshops and presentations to large audiences for maximum effect. As a freelance solution architect, he works with financial institutions, global consultancies, government organizations, partners, and Microsoft to fulfill their business goals.
