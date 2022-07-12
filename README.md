@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336"><img src="https://static.packt-cdn.com/products/9781801819336/cover/smaller" alt="Microsoft Power Platform Solution Architect's Handbook" height="256px" align="right"></a>
 
-This is the code repository for [Microsoft Power Platform Solution Architect's Handbook](https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336), published by Packt.
+This is the errata page for [Microsoft Power Platform Solution Architect's Handbook](https://www.packtpub.com/product/microsoft-power-platform-solution-architect-s-handbook/9781801819336?utm_source=github&utm_medium=repository&utm_campaign=9781801819336), published by Packt.
 
 **An expert's guide to becoming a Power Platform solution architect and preparing for the PL-600 exam**
 
