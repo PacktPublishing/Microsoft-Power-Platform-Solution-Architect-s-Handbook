@@ -28,6 +28,10 @@ This book is for solution architects, enterprise architects, technical consultan
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/D9wUs).
 
 ### Related products
+
+All errata related to this book can be found at https://github.com/PacktPublishing/Microsoft-Power-Platform-Solution-Architect-s-Handbook/blob/main/Errata.pdf.
+
+### Related products
 * Microsoft Power Apps Cookbook [[Packt]](https://www.packtpub.com/product/microsoft-power-apps-cookbook/9781800569553?utm_source=github&utm_medium=repository&utm_campaign=9781800569553) [[Amazon]](https://www.amazon.com/dp/1800569556)
 
 * Extending Microsoft Power Apps with Power Apps Component Framework [[Packt]](https://www.packtpub.com/product/extending-microsoft-power-apps-with-power-apps-component-framework/9781800564916?utm_source=github&utm_medium=repository&utm_campaign=9781800564916) [[Amazon]](https://www.amazon.com/dp/1800564910)
